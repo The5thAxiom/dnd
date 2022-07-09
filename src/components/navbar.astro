@@ -22,6 +22,7 @@ const pages: pageLink[] = [
 ]
 ---
 <style>
+    
     nav {
         display: flex;
         justify-content: flex-end;
@@ -29,6 +30,15 @@ const pages: pageLink[] = [
         background-color: maroon;
         color: white;
         padding-inline: 5vw;
+    }
+
+    *::selection {
+        color: darkred;
+        background-color: lightgray;
+    }
+
+    a::selection {
+        color: black
     }
 
     a {
@@ -62,6 +72,7 @@ const pages: pageLink[] = [
             margin-right: 0;
         }
     }
+
 </style>
 
 <nav>
