@@ -28,12 +28,14 @@ const pages: pageLink[] = [
         align-items: center;
         background-color: maroon;
         color: white;
+        padding-inline: 5vw;
     }
 
     a {
         color: whitesmoke;
         padding: 1em;
         text-align: center;
+        text-decoration: none;
     }
 
     a:hover {
@@ -45,22 +47,21 @@ const pages: pageLink[] = [
     }
 
     a:first-child {
-        text-decoration: none;
         margin-right: auto;
     }
 
     @media only screen and (max-width: 500px) {
         nav {
             flex-direction: column;
+            padding-inline: 0;
         }
         a {
-            width: 100%;
+            width: calc(100% - 2em);
         }
         a:first-child {
             margin-right: 0;
         }
     }
-
 </style>
 
 <nav>
