@@ -8,6 +8,10 @@ type pageLink = {
 
 const pages: pageLink[] = [
     {
+        link: '/',
+        title: 'DnD'
+    },
+    {
         link: '/witcher-2022',
         title: 'Witcher 2022 Campaign'
     },
@@ -17,6 +21,47 @@ const pages: pageLink[] = [
     }
 ]
 ---
+<style>
+    nav {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        background-color: maroon;
+        color: white;
+    }
+
+    a {
+        color: whitesmoke;
+        padding: 1em;
+        text-align: center;
+    }
+
+    a:hover {
+        background-color: darkred;
+    }
+
+    .active {
+        color: yellow;
+    }
+
+    a:first-child {
+        text-decoration: none;
+        margin-right: auto;
+    }
+
+    @media only screen and (max-width: 500px) {
+        nav {
+            flex-direction: column;
+        }
+        a {
+            width: 100%;
+        }
+        a:first-child {
+            margin-right: 0;
+        }
+    }
+
+</style>
 
 <nav>
     {pages.map(
@@ -31,5 +76,5 @@ const pages: pageLink[] = [
             >
                 {page.title}
             </a>
-    )}
+        )}
 </nav>
