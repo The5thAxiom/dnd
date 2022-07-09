@@ -1,6 +1,6 @@
 ---
 title: DnD | Witcher 2022 | Session Notes
-layout: ../../layouts/innerPage.astro
+layout: ../../layouts/mainForMd.astro
 ---
 
 # Witcher 2022 Session Notes
@@ -188,3 +188,4 @@ by Eseld
             -   she points to a (not her) chest
     -   the chest has the (cracked) blue vials
         -   the vial has blue spores which are leaking out
+
