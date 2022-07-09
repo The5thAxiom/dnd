@@ -1,5 +1,5 @@
 ---
-title: DnD | Witcher 2022 | Session Notes
+title: Sam's DnD | Witcher 2022 | Session Notes
 layout: ../../layouts/mainForMd.astro
 ---
 
