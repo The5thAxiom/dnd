@@ -1,0 +1,35 @@
+---
+const currentPath: string = new URL(Astro.request.url).pathname;
+
+type pageLink = {
+    link: string;
+    title: string;
+};
+
+const pages: pageLink[] = [
+    {
+        link: '/witcher-2022',
+        title: 'Witcher 2022 Campaign'
+    },
+    {
+        link: '/witcher-2022/session-notes',
+        title: 'Witcher 2022 Session Notes'
+    }
+]
+---
+
+<nav>
+    {pages.map(
+        page =>
+            <a
+                href={page.link}
+                class={
+                    page.link === currentPath
+                        ? 'active'
+                        : 'inactive'
+                }
+            >
+                {page.title}
+            </a>
+    )}
+</nav>

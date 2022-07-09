@@ -1,0 +1,190 @@
+---
+title: DnD | Witcher 2022 | Session Notes
+layout: ../../layouts/innerPage.astro
+---
+
+# Witcher 2022 Session Notes
+
+by Eseld
+
+## 20220702 | session 1
+
+-   My speaking order: 2 (after eregon)
+-   Speaking order
+    -   Eregon
+    -   Eseld
+    -   Nimrod
+    -   Okami
+    -   Quartzite
+-   Urgon:
+    -   Urgon(dwarf) became an ice statue and died
+    -   Eleroe's (tavern keeper?) friend?
+    -   Tulgi (dwarf), she also has the same disease
+    -   Urgon's home has been thrashed (searched?)
+    -   2mo:
+        -   explored ruins
+        -   sick in a few days
+        -   all the king's men couldn't do nothing
+        -   blue veins
+    -   Tulgi fell sick yesterday
+-   Witcher's contract:
+    -   has ribbons to show that this is a witcher's contract
+    -   son gone missing while playing
+    -   father: address is given (close to the tavern)
+-   Party split:
+    -   nimrod, okami, quartzite: Urgon's home
+    -   eseld, eregon: Tulgi's house
+    -   all but quartzite accept the contract
+-   father:
+    -   in 30s, alcoholic
+    -   moved in fromt the continent
+    -   name: kraskalt
+-   son:
+    -   missing while plyaing (a clearing near the forest clear)
+    -   fav toy: a pair of wooden swords
+    -   name: jon
+    -   about 8
+    -   appearance: black hair, has another wooden
+-   forest clearing: apparently safe
+-   nekers? appeared a few days ago and were killed
+-   elf, dwarf kids near the clearing
+-   he kids were playing 'trebuchet' (brown-red) ball
+-   footprints of a small creature (same size as the boy)
+-   eseld uses detect magic
+-   general magical presence was in the area (related to the 1st conjunction)
+-   footprints are a bit more magical
+-   footprints are side-by-side (accompanying the boy)
+-   nimrod smelt a [nekker](https://witcher.fandom.com/wiki/Nekker)'s smell
+-   the boy might still be alive, nekkers aren't that powerful and might be just inquisitive
+-   the prints go around /.\*ekro/ cove, offshoot of the main river
+-   we find: a large, painted rock by witcher picasso
+-   seems like a nekker ritual site
+-   okami shouted 'jon' and 2 nekkers pop up from the ground
+-   fight:
+    -   initiative:
+        -   nimrod
+        -   quartzite
+        -   eregon
+        -   eseld
+        -   okami
+        -   neKKers
+    -   both the nekkers die
+    -   3 more nekkerfuckers pop out
+
+## 20220705 | session 2
+
+-   ongoing fight:
+    -   the nekkers attack nimrod and okami (couldn't hit me 😎️)
+    -   nimrod kills 1
+    -   eseld kills 1 (inflict wounds was OP!!)
+    -   okami kills 1
+    -   a nekker warrior pops out
+    -   eregon + okami + nimrod kill it
+-   Nimrod follows the sword's smell trail and we reach a small cave.
+-   There's a small child in the cave with a wooden sword who apparently killed a nekker.
+-   Jon tells us that the nekkers just wanted to play with them.
+-   Back in Jon's locality, his friend's mother tells us that kraskald sent jon out cause he was drinking (moonshine, a strong liqour so he might be drinking to forget)
+-   talkin' to misa/nisa:
+    -   Urgon used to collect artefacts from those ruins (iselkros?) (on mountains we could barely see)
+    -   misa's hubby: gana'weth (in novograd), demo'weth
+    -   he used to sell runes to Pelc's curiosities
+    -   on Tulgi:
+        -   came here recently
+        -   dislikes humans
+        -   dislikes the idea of coexistence
+        -   never spoke to misa
+-   nimrod and okami @ kraskal's:
+    -   idk
+    -   kraskal:
+        -   in the temerian infantry about a decade ago
+        -   his squad got TPK'd
+        -   he drinks to forget
+    -   okami gets a sword
+    -   'mai pay karunga' vali bakchod happens
+-   elroe thanks us
+-   the party takes a short rest in the tavern and chats
+
+## 20220709 | Session 3
+
+-   Speaking order
+    -   Eregon
+    -   Eseld
+    -   Nimrod
+    -   Okami
+    -   Quartzite
+-   Going to Urgon's house:
+    -   X is with us
+    -   1 story log cabin @ the end of the villiage
+    -   there is a guard at the front door
+    -   we enter the house
+    -   mantle has a beast w/ white horns (leshen? skull)
+    -   dirty dishes, books, adventuring gear
+    -   knocked-over cabinet
+    -   adventuring gear:
+        -   armour
+        -   fur lined clothing
+        -   grappling hook
+        -   hooded? lantern
+    -   books:
+        -   elven ruins (iselkross chapters are marked)
+        -   how to sell (garreth Vee's elven antiquity hustling guide)
+        -   book on notebandhi:
+            -   has a damp, muddy shoe-print on it
+    -   a receipt falls out of the bookshelf:
+        -   some artefacts sold to Pelc's 1000gp
+        -   items:
+            -   dagger
+            -   scroll case
+            -   jade statuette
+            -   quiver with arrows x20
+            -   silver ring with jasper set in it
+            -   two blue glass vials
+    -   even the bed was searched
+    -   dron said something about 'ripping apart floorboards', idk if that's a hint
+    -   footprints:
+        -   from the front door, exit through the back door
+        -   damp (one day of rain)
+    -   the backdoor:
+        -   the footprints continue outward
+-   the party splits
+    -   nimrod, eregon: footprints then Tulgi's
+    -   okami, eseld, quartzite: pelc's curiosities then Tulgi's
+-   eregon thinks but knows nothing
+-   nimrod casts 'detect poison and disease', its not very effective!
+-   team pelc's:
+    -   we befriend a wolf named dhaniya by feeding him elven parle G (for 5 sp down from 5gp)
+    -   doesn't like the witchers
+-   team footprints:
+    -   they reach tulgi's house
+    -   she was the thief
+    -   she stole Urgon's belongings and gave it to her sister (hulil)
+    -   hulil sent some men from her group (Scoia'tael) to pelc's
+-   pelc's:
+    -   party reunites
+    -   some elves are standing there (grey dots in image)
+    -   the shop has been smashed
+    -   one of the elves tells us to go away
+    -   they were sent by hulil
+    -   the tension is gone
+    -   they are also looking for the artefacts
+    -   the artefacts Tulgi stole weren't useful (the vials were useful)
+    -   we go to in the other room (purple in the image):
+        -   its a bedroom
+        -   single bed
+        -   there is an ice statue of verla pelc(elf)(store owner) there
+    -   verla is frozen, just like Urgon
+    -   i bluff about killing a member of the eternal flame and gain the main elf's respect
+    -   eregon says there is grave danger:
+        -   any person exposed to these artefacts is in danger
+    -   the blue vials are sus (cue amogus theme)
+-   the elves take them to croaker cave (scoia'tael's hideout):
+    -   there are pools mirky water created by melting snow with giant frogs inside
+    -   there is a giant snow frog (called old croaker)
+    -   we enter hulil's place:
+        -   next to her is an elf called raegren
+        -   she also has blue veins
+        -   she says:
+            -   the blue vials are a key to this
+            -   she points to a (not her) chest
+    -   the chest has the (cracked) blue vials
+        -   the vial has blue spores which are leaking out
