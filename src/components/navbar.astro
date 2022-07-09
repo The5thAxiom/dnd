@@ -8,10 +8,6 @@ type pageLink = {
 
 const pages: pageLink[] = [
     {
-        link: '/',
-        title: 'DnD'
-    },
-    {
         link: '/witcher-2022',
         title: 'Witcher 2022 Campaign'
     },
@@ -60,7 +56,7 @@ const pages: pageLink[] = [
         margin-right: auto;
     }
 
-    @media only screen and (max-width: 500px) {
+    @media only screen and (max-width: 600px) {
         nav {
             flex-direction: column;
             padding-inline: 0;
@@ -73,9 +69,32 @@ const pages: pageLink[] = [
         }
     }
 
+    a.logo-link {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 0.5em;
+    }
+
+    img.logo {
+        height: 2em;
+    }
+
 </style>
 
 <nav>
+    <a
+        href='/'
+        class={ 'logo-link ' + (
+                '/' === currentPath
+                    ? 'active'
+                    : 'inactive'
+            )
+        }
+    >
+    <img src="/d20.svg" class='logo' alt='logo'/>
+        Sam's DnD Site
+    </a>
     {pages.map(
         page =>
             <a
