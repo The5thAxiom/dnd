@@ -23,7 +23,13 @@ const characters: character[] = [
     <ol>
         {characters.map(
             c => <li>
-                <a href={c.link}>{c.name}</a>, a <span>{c.race} {c.class}</span>
+                <a
+                    href={c.link}
+                    target='_blank'
+                    rel='noreferrer'
+                >
+                    {c.name}
+                </a>, a <span>{c.race} {c.class}</span>
             </li>
         )}
     </ol>
