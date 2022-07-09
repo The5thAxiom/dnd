@@ -1,0 +1,17 @@
+body {
+    background-color: lightgray;
+}
+
+a {
+    color: maroon;
+}
+
+a:active {
+    color: black;
+}
+
+*::selection {
+    color: lightgray;
+    background-color: darkred;
+}
+

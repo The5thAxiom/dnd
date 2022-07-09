@@ -1,0 +1,92 @@
+---
+const currentPath: string = new URL(Astro.request.url).pathname;
+
+type pageLink = {
+    link: string;
+    title: string;
+};
+
+const pages: pageLink[] = [
+    {
+        link: '/',
+        title: 'DnD'
+    },
+    {
+        link: '/witcher-2022',
+        title: 'Witcher 2022 Campaign'
+    },
+    {
+        link: '/witcher-2022/session-notes',
+        title: 'Witcher 2022 Session Notes'
+    }
+]
+---
+<style>
+    
+    nav {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        background-color: maroon;
+        color: white;
+        padding-inline: 5vw;
+    }
+
+    *::selection {
+        color: darkred;
+        background-color: lightgray;
+    }
+
+    a::selection {
+        color: black
+    }
+
+    a {
+        color: whitesmoke;
+        padding: 1em;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    a:hover {
+        background-color: darkred;
+    }
+
+    .active {
+        color: yellow;
+    }
+
+    a:first-child {
+        margin-right: auto;
+    }
+
+    @media only screen and (max-width: 500px) {
+        nav {
+            flex-direction: column;
+            padding-inline: 0;
+        }
+        a {
+            width: calc(100% - 2em);
+        }
+        a:first-child {
+            margin-right: 0;
+        }
+    }
+
+</style>
+
+<nav>
+    {pages.map(
+        page =>
+            <a
+                href={page.link}
+                class={
+                    page.link === currentPath
+                        ? 'active'
+                        : 'inactive'
+                }
+            >
+                {page.title}
+            </a>
+        )}
+</nav>

@@ -1,0 +1,9 @@
+---
+import Main from "./main.astro"
+
+const {content} = Astro.props;
+---
+
+<Main title={content.title}>
+<slot></slot>
+</Main>

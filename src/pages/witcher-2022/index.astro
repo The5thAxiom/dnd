@@ -1,0 +1,36 @@
+---
+import Main from '../../layouts/main.astro';
+
+type character = {
+    name: string;
+    link: string;
+    race: string;
+    class: string;
+};
+
+const characters: character[] = [
+    {
+        name: 'Eseld the Faithful of Vengerburg',
+        link: 'https://www.dndbeyond.com/characters/76557808',
+        race: 'Half-elf',
+        class: 'Cleric'
+    }
+];
+---
+
+<Main title='DnD | Witcher 2022'>
+    <h1>Characters:</h1>
+    <ol>
+        {characters.map(
+            c => <li>
+                <a
+                    href={c.link}
+                    target='_blank'
+                    rel='noreferrer'
+                >
+                    {c.name}
+                </a>, a <span>{c.race} {c.class}</span>
+            </li>
+        )}
+    </ol>
+</Main>
