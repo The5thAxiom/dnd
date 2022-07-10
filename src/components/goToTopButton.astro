@@ -60,10 +60,8 @@
     const button = document.getElementById('go-to-top-button');
 
     window.addEventListener('scroll', () => {
-        if (window.scrollY > 0) {
-            console.log('show button');
-            button.setAttribute('style', 'display: flex;');
-        } else button.setAttribute('style', 'display: none;');
+        if (window.scrollY > 0) button.setAttribute('style', 'display: flex;');
+        else button.setAttribute('style', 'display: none;');
     });
 
     button.addEventListener('click', () => {
