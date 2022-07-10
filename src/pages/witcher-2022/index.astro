@@ -1,7 +1,13 @@
 ---
 import Main from '../../layouts/main.astro';
 
-type character = {
+
+const isVowelSound = (word: string): boolean => {
+    const vowels = ['a', 'e', 'i', 'o', 'u'];
+    return vowels.includes(word.charAt(0).toLowerCase());
+}
+
+type pc = {
     name: string;
     link?: string;
     newPage: boolean;
@@ -9,7 +15,7 @@ type character = {
     class: string;
 };
 
-const characters: character[] = [
+const pcs: pc[] = [
     {
         name: 'Eseld the Faithful of Vengerburg',
         link: 'https://www.dndbeyond.com/characters/76557808',
@@ -47,17 +53,34 @@ const characters: character[] = [
     {
         name: 'Okami',
         newPage: true,
-        race: 'idk',
+        race: '',
         class: 'Witcher'
     },
-    
 ];
+
+type npc = {
+    name: string;
+    race: string;
+    affiliation?: string;
+    description?: string;
+}
+
+const npcs: npc[] = [
+    {
+        name: 'Hulil',
+        race: 'Dwarf',
+        affiliation: "Scoia'tael",
+        description: "Tulgi's sister"
+    },
+]
 ---
 
 <Main title="Sam's DnD | Witcher 2022 Campaign">
-    <h1>Characters:</h1>
+    <h1>Witcher 2022 Campaign</h1>
+
+    <h2>PCs</h2>
     <ol>
-        {characters.map(
+        {pcs.map(
             c => <li>
                 {c.link
                     ? <a
@@ -68,8 +91,21 @@ const characters: character[] = [
                         {c.name}
                     </a>
                     : c.name
-                }, a <span>{c.race} {c.class}</span>
+                }, {isVowelSound(c.race || c.class) ? 'an' : 'a'} <span>{c.race} {c.class}</span>
             </li>
         )}
     </ol>
+    
+    <h2>NPCs</h2>
+    <ol>
+        {npcs.map(
+            c => <li>
+                {c.name}, a {c.race} {!!c.affiliation && `(${c.affiliation})`} {!!c.description && <>
+                :<br/>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{c.description}
+                </>}
+            </li>
+        )}
+    </ol>
+    
 </Main>
