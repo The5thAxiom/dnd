@@ -15,11 +15,18 @@ const { title } = Astro.props;
         margin: 0;
         padding: 0;
         box-sizing: border-box;
+
+        min-height: 100vh;
+        
         font-family: 'IM Fell English SC', serif;
         font-size: 20px;
+        
+        display: flex;
+        flex-direction: column;
     }
     main {
         padding-inline: 5vw;
+        flex: auto;
     }
 </style>
 
