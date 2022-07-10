@@ -1,0 +1,72 @@
+<style>
+    #go-to-top-button {
+        background-color: lightgray;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.3), 0 0 15px rgba(0, 0, 0, 0.1),
+        0 0 20px rgba(0, 0, 0, 0.05), 0 0 30px rgba(0, 0, 0, 0.042),
+        0 0 40px rgba(0, 0, 0, 0.03), 0 0 80px rgba(0, 0, 0, 0.02);
+
+        padding: 0.5em;
+        height: 1.5em;
+        width: 1.5em;
+        border-radius: 100vmax;
+
+        position: fixed;
+        right: 2em;
+        bottom: 2em;
+
+        display: none;
+        justify-content: center;
+        align-items: center;
+
+        cursor: pointer;
+    }
+
+    #go-to-top-button:hover {
+        background-color: grey;
+    }
+
+    #go-to-top-button:hover > svg {
+        fill: red;
+    }
+
+    #go-to-top-button:active > svg {
+        fill: yellow;
+    }
+
+    svg {
+        fill: maroon;
+        height: 2em;
+        width: 2em;
+    }
+</style>
+
+<div id="go-to-top-button">
+    <svg
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 24 24"
+        fill="#000000"
+    >
+        <path
+            d="M0 0h24v24H0V0z"
+            fill="none"
+        />
+        <path
+            d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"
+        />
+    </svg>
+</div>
+
+<script>
+    const button = document.getElementById('go-to-top-button');
+
+    window.addEventListener('scroll', () => {
+        if (window.scrollY > 0) {
+            console.log('show button');
+            button.setAttribute('style', 'display: flex;');
+        } else button.setAttribute('style', 'display: none;');
+    });
+
+    button.addEventListener('click', () => {
+        window.scrollTo(0, 0);
+    })
+</script>

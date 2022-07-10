@@ -1,6 +1,7 @@
 ---
 import Navbar from '../components/navbar.astro'
 import Footer from '../components/footer.astro'
+import GoToTopButton from '../components/goToTopButton.astro'
 import '../styles/index.css'
 
 export interface Props {
@@ -45,5 +46,6 @@ const { title } = Astro.props;
             <slot/>
         </main>
         <Footer />
+        <GoToTopButton />
     </body>
 </html>
