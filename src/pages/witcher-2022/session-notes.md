@@ -187,5 +187,42 @@ by Eseld
             -   the blue vials are a key to this
             -   she points to a (not her) chest
     -   the chest has the (cracked) blue vials
-        -   the vial has blue spores which are leaking out
+        -   the vial has blue spores which are cracked and leaking
+
+# 20220712 | Session 4
+
+-   in Hulil's room @ Croaker Page:
+    -   in the box:
+        -scroll case - 15gp
+        -   jade statuette - 25gp
+        -   quiver 6x +1 arrows
+        -   silver ring + jasper stone - 15gp
+        -   pelc's curiosities receipt
+        -   another recepit: hulil sold vials to Irven (has hubby and daughter)
+    -   We learn that teafling only live in fairbank villiage
+    -   Irven's daughter liked how the vials glowed.
+    -   Arcana check on vials:
+        -   not natural
+        -   magical aura
+        -   no idea about the type of magic
+        -   Elroe asked many quacks (religious healers) and none of their spells worked on the vials
+    -   We take two vials and keep them in Nimrod's alms box.
+    -   Okami is good at feeding bats to the toads.
+    -   Eseld tries to feed Dhaniya a bat, but Dhaniya doesn't like it.
+    -   Okami uses axie to make him eat it. Quartzite throws a bat at Okami.
+    -   We roll initiative:
+        -   Okami
+        -   Eregon
+        -   Nimrod
+        -   Regular Frog
+        -   Old Croaker
+        -   Quartzite
+        -   Dhaniya
+        -   Eseld
+    -   Okami runs out of the cave, the frogs calm down.
+    -   Everyone leaves, Okami is outside
+    -   We make Okami pay 5gp for elven (actual) parle G, Dhaniya likes him.
+    -   We tell Erloe everything, he takes the vials to study them and asks us to wait till the morning.
+    -   I ask a Gnome lady to hook me up with a collar for my doggie.
+    -   We eat and go sleep (long rest).
 

@@ -8,6 +8,8 @@ layout: ../../layouts/mainForMd.astro
 -   Not actually a wolf, just a big doggy.
 -   Named after the free coriander we failed to get.
 -   Very good boi
+-   Doesn't like bats
+-   Is a G for Genius
 
 ## Images for reference:
 
