@@ -101,7 +101,7 @@ by Eseld
         -   he drinks to forget
     -   okami gets a sword
     -   'mai pay karunga' vali bakchod happens
--   elroe thanks us
+-   Elro thanks us
 -   the party takes a short rest in the tavern and chats
 
 ## 20220709 | Session 3
@@ -113,7 +113,6 @@ by Eseld
     -   Okami
     -   Quartzite
 -   Going to Urgon's house:
-    -   X is with us
     -   1 story log cabin @ the end of the villiage
     -   there is a guard at the front door
     -   we enter the house
@@ -191,7 +190,7 @@ by Eseld
 
 # 20220712 | Session 4
 
--   in Hulil's room @ Croaker Page:
+-   in Hulil's room @ Croaker Cave:
     -   in the box:
         -scroll case - 15gp
         -   jade statuette - 25gp
@@ -205,7 +204,7 @@ by Eseld
         -   not natural
         -   magical aura
         -   no idea about the type of magic
-        -   Elroe asked many quacks (religious healers) and none of their spells worked on the vials
+        -   Elro asked many quacks (religious healers) and none of their spells worked on the vials
     -   We take two vials and keep them in Nimrod's alms box.
     -   Okami is good at feeding bats to the toads.
     -   Eseld tries to feed Dhaniya a bat, but Dhaniya doesn't like it.
@@ -221,8 +220,73 @@ by Eseld
         -   Eseld
     -   Okami runs out of the cave, the frogs calm down.
     -   Everyone leaves, Okami is outside
-    -   We make Okami pay 5gp for elven (actual) parle G, Dhaniya likes him.
-    -   We tell Erloe everything, he takes the vials to study them and asks us to wait till the morning.
-    -   I ask a Gnome lady to hook me up with a collar for my doggie.
-    -   We eat and go sleep (long rest).
+-   We make Okami pay 5gp for elven (actual) parle G, Dhaniya likes him.
+-   We tell Elro everything, he takes the vials to study them and asks us to wait till the morning.
+-   I ask a Gnome lady to hook me up with a collar for my doggie.
+-   We eat and go sleep (long rest).
 
+
+# 20220723 | Session 5
+
+- @ the Tavern:
+    - Eseld's vision:
+        - sees a mountain
+        - orange light behind the mountain
+        - there is a humming noise
+        - it gets louder and he wakes up
+    - Elro is paying for it all
+    - Xeru, another witcher was also asked by Elro to help him
+    - The Gnomish tavern keeper gives me a collar and a leash
+    - I put the leash in the bag
+    - Okami thinks the collar is kinky (for some FUCKING reason)
+    - Xeru meets the party
+    - Nimrod doesn't like being surrounded by witchers (nimrod ke 2 aage witcher, nimrod ke 2 peeche witcher, aage witcher, peeche witcher, bolo kitne witcher?)
+    - Elro rushes in, approaches us and talks to us:
+        - Before the war and the conjuction, an old witcher came to Elro to ask about the Iselkross ruins
+        - but the witcher had to go and help his student (vesemir (okami is looking for him))
+        - Back then, Iselkross was under a glacier.
+        - during the conjunction, there was a bright orange glow
+        - they thought monsters were gonna appear but the didn't
+        - Recently, Urgon found out that the glacier had melted
+        - then Urgon went to Iselkross on his own and got artefacts
+        - Iselkross used to be an elven militiary research bunker
+        - there had been an accident in Iselkross and no one heard from it
+        - thus, the vials were military research, prolly something called 'Frigid Woe'
+        - it can't be detected, removed or anything using a spell
+        - they prolly had a cure (probably still in Iselkross)
+        - Elro takes a vial and puts it over a flame, the contents turn black
+        - the spores' weakness is Fire!
+    - what we need to do:
+        1. get the cure
+        2. destroy the vials
+    - we accept, we get some climbing gear
+    - Elro is going to quarantine the town
+- autobots, rollout!
+- We leave @ 8:30 am and take 4 hours to reach the peak
+- Eseld and Xeru feel a magical disturbance
+- We reach an obelisk with an 'igni' sign and is radiating heat with an orange hue
+- Behind the obelisk, are the ruins of Iselkross
+- The obelisk:
+    - Xeru approaches the obelisk, it starts to hum and his medallian starts to glow
+    - Eseld can 'hear' the humming say: 'City of frost, city of storm, city of flesh and broken bone'
+    - The obelisk glows and emits chaos energy? Eseld gains 1 1st level and 1 2nd level spell slots
+    - Quill says he can 'read' the history of the place, a lot of chaos energy entered the world and Iselkross was covered in a sphere of fire which is why it melted
+- Iselkross:
+    - The entrance was concealed, but we find it
+    - It says 'Iselkross', it is frozen shut
+    - Okami casts 'igni' and the ice melts
+    - On the door, there is some elvish "you can catch me, but you can't throw me, if you catch me, i make your life miserable"
+    - Eseld says 'the common cold', the door opens
+    - there is a set of stairs downwards, which was only visible to Witcher senses
+    - a sign in elvish: 'warning, disease research lab | decontamination is strictly advised'
+    - we go down and enter a hallway
+    - there are more warning signs on the right wall
+    - the witchers can hear a growling noise
+    - there are 7 'icy zombies', battle begins and we kill them all
+    - One of the zombies has a ring w/ the inscription 'to my light and darkness'
+    - They were once humans (against the elves in the war) and were experimented on by the elves
+    - The accident froze them but then the conjunction energy animated them
+    - Okami talks to quill through Xeru
+    - Xeru is kinda crazy
+    - There is a door named 'main laboratory' it is heavy, heavier than steel
+    - There is a ring already in the door in a sort-of 'key-hole', there is also another ring-sized hole to the next
