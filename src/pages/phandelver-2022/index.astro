@@ -23,14 +23,14 @@ const pcs: pc[] = [
         race: 'Wood Elf',
         class: 'Druid'
     }, {
-        name: '',
-        link: '',
+        name: 'Erxalim Ahlai',
+        link: 'https://www.dndbeyond.com/characters/79791536',
         newPage: true,
         race: 'High Elf',
         class: 'Rogue'
     }, {
-        name: '',
-        link: '',
+        name: 'Ebira Zweilous',
+        link: 'https://www.dndbeyond.com/characters/79791761',
         newPage: true,
         race: 'Tiefling',
         class: 'Paladin'
@@ -44,11 +44,19 @@ type npc = {
     description?: string;
 }
 
-const npcs: npc[] = []
+const npcs: npc[] = [
+    {
+        name: 'Gundren Rockseeker',
+        race: 'Dwarf',
+        description: 'An explorer and miner, knows all three PCs.'
+    }
+]
 ---
 
 <Main title="Sam's DnD | Witcher 2022 Campaign">
-    <h1>Witcher 2022 Campaign</h1>
+    <h1>Phandelver 2022 Campaign</h1>
+
+    <h3><a href='/phandelver-2022/session-notes'>Session notes</a></h3>
 
     <h2>PCs</h2>
     <ol>
@@ -67,8 +75,6 @@ const npcs: npc[] = []
             </li>
         )}
     </ol>
-
-    <h3><a href='/phandelver-2022/session-notes'>Session notes</a></h3>
     
     {npcs.length > 0 &&
         <h2>NPCs</h2>
