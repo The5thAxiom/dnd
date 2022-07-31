@@ -1,0 +1,86 @@
+---
+import Main from '../../layouts/main.astro';
+
+
+const isVowelSound = (word: string): boolean => {
+    const vowels = ['a', 'e', 'i', 'o', 'u'];
+    return vowels.includes(word.charAt(0).toLowerCase());
+}
+
+type pc = {
+    name: string;
+    link?: string;
+    newPage: boolean;
+    race: string;
+    class: string;
+};
+
+const pcs: pc[] = [
+    {
+        name: 'HerbAxe',
+        link: 'https://www.dndbeyond.com/characters/79800928',
+        newPage: true,
+        race: 'Wood Elf',
+        class: 'Druid'
+    }, {
+        name: '',
+        link: '',
+        newPage: true,
+        race: 'High Elf',
+        class: 'Rogue'
+    }, {
+        name: '',
+        link: '',
+        newPage: true,
+        race: 'Tiefling',
+        class: 'Paladin'
+    }
+];
+
+type npc = {
+    name: string;
+    race: string;
+    affiliation?: string;
+    description?: string;
+}
+
+const npcs: npc[] = []
+---
+
+<Main title="Sam's DnD | Witcher 2022 Campaign">
+    <h1>Witcher 2022 Campaign</h1>
+
+    <h2>PCs</h2>
+    <ol>
+        {pcs.map(
+            c => <li>
+                {c.link
+                    ? <a
+                        href={c.link}
+                        target={c.newPage ? '_blank' : '_self'}
+                        rel={c.newPage ? 'noreferrer' : ''}
+                    >
+                        {c.name}
+                    </a>
+                    : c.name
+                }, {isVowelSound(c.race || c.class) ? 'an' : 'a'} <span>{c.race} {c.class}</span>
+            </li>
+        )}
+    </ol>
+
+    <h3><a href='/phandelver-2022/session-notes'>Session notes</a></h3>
+    
+    {npcs.length > 0 &&
+        <h2>NPCs</h2>
+        <ol>
+            {npcs.map(
+                c => <li>
+                    {c.name}, a {c.race} {!!c.affiliation && `(${c.affiliation})`} {!!c.description && <>
+                    :<br/>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{c.description}
+                    </>}
+                </li>
+            )}
+        </ol>
+    }
+</Main>
