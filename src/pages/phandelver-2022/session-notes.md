@@ -38,7 +38,7 @@ by HerbAxe
     -   Goblin 4
 -   We capture goblin 4, I feed him a herb, he is out cold.
 -   Erxhalim finds the goblin's trail. About a dozen goblins were here, 2 bodies were taken from here.
--   The goblin's boss is called 'clard'. Very annoying.
+-   The goblin's boss is called 'Clarg'. Very annoying.
 -   We hide the wagon, also take some oil. HerbAxe takes a shot of ale.
 -   Boblin is on a leash, we go on the trail.
 -   There is a snare.
@@ -59,4 +59,27 @@ by HerbAxe
     -   We trace our steps, find Erxhalim's tracks. We hear a cry of surprise.
     -   We see Erxhalim who just shot an arrow.
 
-## 202208??
+## 20220803
+
+-   The goblins think that Erxhalim is the wind warrior prophecy.
+-   We make boblin the king.
+-   We decide to free Sildar and fight clarg (the real boss)
+-   Sildar is wearing an armor with the symbol of the "Lord's alliegance"
+-   Sildar takes Claw's (the guy who died) shortsword and uses some of his ointment.
+-   We go towards the bridge.
+-   We're planning but clarg arrives and herbaxe asks him about his dictionary.
+-   Herbaxe tries to use ice knife on him.
+    -   Battle happens:
+    -   HerbAxe gets badly wounded.
+    -   Boblin saves him
+    -   HerbAxe ice knifed Clarg.
+    -   Erxhalim is down.
+    -   HerbAxe kills Clarg with a Shillelagh'd club.
+-   HerbAxe takes his dictionary (book of words)
+-   Sildar says they took Rockseeker to the actual goblin king.
+-   We get a lot of loot.
+-   HerbAxe takes Clarg's skull.
+-   'The black spider was paying the dwarfs to send Gundren to the king's grol'
+-   We head to Phandalen
+-   We talk to Sildar:
+    -   Sildar and Gundren were heading to inquire about Iarno Alvrek.
