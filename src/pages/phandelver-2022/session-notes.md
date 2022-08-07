@@ -83,3 +83,4 @@ by HerbAxe
 -   We head to Phandalen
 -   We talk to Sildar:
     -   Sildar and Gundren were heading to inquire about Iarno Alvrek.
+-   We all level up.
