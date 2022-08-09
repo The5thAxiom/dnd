@@ -79,8 +79,78 @@ by HerbAxe
 -   Sildar says they took Rockseeker to the actual goblin king.
 -   We get a lot of loot.
 -   HerbAxe takes Clarg's skull.
--   'The black spider was paying the dwarfs to send Gundren to the king's grol'
+-   'The black spider was paying the dwarfs to send Gundren to the king grol'
 -   We head to Phandalen
 -   We talk to Sildar:
-    -   Sildar and Gundren were heading to inquire about Iarno Alvrek.
+    -   Sildar was heading to inquire about Iarno Alvrek.
 -   We all level up.
+
+## 20220809
+
+-   On the way to Phandalen
+    -   We see the town
+    -   There are ruins around the new buildings (the town used to be bigger)
+    -   Sildar is much more relaxed
+-   We go to 'StoneHill Inn':
+    -   There is a human innkeeper, Trilena (Erxhalim has slept with her before).
+    -   She has a husband named Toblin.
+    -   Erxhalim gets a drink
+    -   We all go to our rooms
+-   The next day, we overhear:
+    -   An old dwarf farmer called Narth, a gossipy half-elf barmaid called Elsa.
+    -   Erxhalim tries to flirt with her
+    -   There is tiefling bard, Chorus, playing music
+    -   Narth is talking about:
+        -   Sister gara-el (oversees the shrine of luck) recently left town for a few days, when she returned, she had a scar and was exhausted
+    -   Elsa tells us about the town:
+        -   Daran Edermath, an orchard keeper is a former adventurer
+        -   Try to stay clear of the red brands (a gang which controls Phandalen and extorts people, led by a mysterious figure known as Glass Taff)
+    -   A miner, Lanar says:
+        -   Did you hear that at the east end of the Tribor trail, there were some orc raiders
+    -   James Silgod, a gnomish prospector says:
+        -   There were goblins on tribor trail attacking trading parties
+        -   He'd pay 10 gold pieces whoever will kill them
+    -   He was supposed to find him
+-   Talking to Trilena:
+    -   Thel dendrar, the local woodcarver stood up to the red brands, they beat him up and he is bed ridden.
+    -   The others took his stuff and kidnapped his family
+-   The redbrands frequent the 'sleeping giant' taphouse
+-   A kid says another kid found a secret tunnel but the red brands caught him.
+-   The red brands do every bussines except mining cause they don't want trouble with Halia Faunten. She is the leader of the miner's exchange.
+-   Sildar says he will help with the red brands if we help him with Iarno
+-   We head to the Edermath orchard:
+    -   We see a fit (;)), silver-haired half-elf with an ornamental sword tending to the orchards
+    -   HerbAxe takes 4 peaches and 4 apples, goes to the top of the tree and surveys the area
+-   We go to his cottege:
+    -   He was in 'the order of the gauntlet'
+    -   The order fights against the assassin's guild (Erxhalim's group)
+    -   We tell him why we need our help
+    -   He already knows sildar
+    -   He sent them some fruit and knows that their secret base is in Tresendar Manor
+    -   He tells us that many prospectors were chased by undead near old owl's well and someone is digging around there (dangerous magic could be around)
+    -   The ruins are of an ancient magical empire
+    -   Halia runs the miner's guild, isn't someone you want to watch your back (you need to promise her that there's a reward and she won't let you go)
+-   We go to give the cart's goods to the destination (barthen's):
+    -   Barthen and Gundren were trying to find the 'Lost Mines of Phandelver'
+    -   More than 500 years ago, dwarves and gnomes made an agreement (Phandelver's pact)
+    -   They would gain access to a mine (wave echo cave), with great wealth and magical power
+    -   Human spellcaster used that energy to create the 'Forge of Spells', where magic items can be created
+    -   This made Phandalen rich, but then Orc attacked and the cave was lost
+    -   We then Barthen about what happened to Gundren
+-   We go to 'Lionshield Coster':
+    -   It is a logistics company
+    -   We return the stuff we stole
+    -   We enquire about Halia
+    -   Erxhalim successfully asks the girl at the shop out!
+    -   The party buys some adventuring gear.
+    -   HerbAxe gets a Staff of the Python (Nagina!).
+-   We head to The Miner's Exchange:
+    -   There are two people dressed in red, outside the building
+    -   He says the boss says no one can meet Halia
+    -   These are the red bandits:
+-   We turn around and head to Tresendar manner
+    -   We see the sleeping giant taphouse
+    -   I try to go in, Ebira stops me, the commotion causes some red brands to come out
+-   We fight
+-   We kill 3, one surrenders
+-   We wrap him in Nagina and take him aside to interrogate him.
