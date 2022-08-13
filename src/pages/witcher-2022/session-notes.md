@@ -316,11 +316,33 @@ by Eseld
     -   Okami hits her with a frigid woe tipped arrow but she takes it
     -   Another ice thingy comes out
     -   Okami slashes her limbs off
+
+## 20220813 | Session 7
+
 -   She says the cure is in the 'disease storage' room or in the storage above
--   She offs herself
 -   We take a key and her ring
-
-## 202208?? | Session 7
-
--
+-   We go to the disease storage
+-   idk what happened
+-   She snaps a finger and all the vials break, chemicals cover her and passes away (the party is safe)
+-   We take the cure
+-   We bring the remaining vials of Frigid Woe with us.
+-   We arrive at the villiage by 5
+-   Elro introduces us to two soldiers with black feathers on their helmets
+-   Captain Dradier of the Nilfgardian army greets us
+-   He doesn't intend to destroy the vials
+-   Quartzite distracts the captian
+-   The party decides to just fucking burn the vials and be done with it.
+-   The witchers start burning the vials
+-   Frigid woe is gone
+-   Dradier tries to arrest us
+-   Battle starts:
+    -   Eregon tries to calm everyone
+    -   But Okami just attacks, the Captian hits Okami
+    -   Nimrod goes 'only I have the right to kill Okami' and also attacks the Captian
+    -   Xeru kills the Captian
+    -   We kill the other 2 soldiers as well
+-   Elro's glassblades have rounded up the others
+-   We discuss what Elro will tell the Nilfgardian's when they ask about the captain.
+-   We return to the tavern
+-   We get 50 gp each?
 
