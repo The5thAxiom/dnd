@@ -121,7 +121,7 @@ by HerbAxe
 -   We head to the Edermath orchard:
     -   We see a fit (;)), silver-haired half-elf with an ornamental sword tending to the orchards
     -   HerbAxe takes 4 peaches and 4 apples, goes to the top of the tree and surveys the area
--   We go to his cottege:
+-   We go to his cottage:
     -   He was in 'the order of the gauntlet'
     -   The order fights against the assassin's guild (Erxhalim's group)
     -   We tell him why we need our help
@@ -147,10 +147,44 @@ by HerbAxe
 -   We head to The Miner's Exchange:
     -   There are two people dressed in red, outside the building
     -   He says the boss says no one can meet Halia
-    -   These are the red bandits:
+    -   These are red bandits
 -   We turn around and head to Tresendar manner
     -   We see the sleeping giant taphouse
     -   I try to go in, Ebira stops me, the commotion causes some red brands to come out
 -   We fight
 -   We kill 3, one surrenders
 -   We wrap him in Nagina and take him aside to interrogate him.
+
+## 20220907 | Session 8
+
+-   Talking to the Red Brand guy:
+    -   HerbAxe finds out that the sleeping giant is not an actual giant.
+    -   The guys in front of Halia's home were just blocking the house cause they were scared of her.
+    -   The Red Brands didn't want anyone to meet Halia.
+    -   There are cursed magic items at the well
+-   We let him go but then we kill him
+-   We take some Red Brand gear
+-   We head back to Halia's home
+-   The townmaster is somewhat disappointed.
+-   We try to fool the guards in front of Halia's house but they recognise the gear and we start fighting:
+    -   Ebira hits one
+    -   HerbAxe becomes a bear and kills them both (a crit)
+-   We enter the Miner's Exchange
+-   We meet Halia
+    -   She wants Glasstaff's (the leader of the Red Brands) head and will give us money and access to the mines
+    -   She gives us info about the Red Brands
+    -   Glasstaff is probably at Tressendar Manor
+-   We take a long rest, Erxhalim has a _good time_ (;)) with Linea
+-   Next morning, we meet the Townmaster for a bit.
+-   We head to the Sleeping Giant Taphouse
+    -   Erxhalim and HerbAxe sneak in
+    -   We come in from the 1st floor window
+    -   We see 5 guys below, HerbAxe restrains 2 of them with entangle
+    -   Erxhalim signals Ebira and Sildar to enter, battle:
+        -   Ebira enters and sees 2 others, he attacks one
+        -   Sildar takes a shot with his crossbow on the same guy
+        -   HerbAxe misses a fireball
+        -   Erxhalim shoots a restrained guy with his longbow
+        -   Ebira goes down
+        -   HerbAxe activates Nagina, she misses biting a guy
+        -   HerbAxe heals Ebira
