@@ -188,3 +188,23 @@ by HerbAxe
         -   Ebira goes down
         -   HerbAxe activates Nagina, she misses biting a guy
         -   HerbAxe heals Ebira
+
+## 20220913
+
+-   The battle is going on:
+    -   Erxhalim kills a restrained guy
+    -   The Red Brands do a little damage to Nagina
+    -   HerbAxe goes down and becomes a bear, bites a guy and misses his claw attack on one.
+    -   Nagina kills the guy he bit
+    -   Erxhalim shoots a guy with his longbow, and throws his dagger of venom and kills the restrained guy
+    -   A Red Brand bloodies Sildar
+    -   Ebira kills a Red Brand and injures another
+    -   Nagina finishes the last guy
+-   A guy on a carriage approaches the taphouse with a gagged Linene (Erxhalim's date)
+-   He is _Bearded Mamba_, no. 5 on the Assassin's Guild Scoreboard (Erxhalim is no. 10)
+-   Le leta hai vo hamari baaton baaton me
+-   We go back to the Inn, Erxhalim is sneaking around
+-   Erxhalim sneaks into Lionshield's Coster (through the chimney)
+-   He looks around, there is no proof that connects her to the Red Brands.
+-   We all level up!
+-   The next day, we head to the adventurer (Daran), we find Janglee the Barbarian there.
