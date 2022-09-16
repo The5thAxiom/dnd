@@ -207,4 +207,25 @@ by HerbAxe
 -   Erxhalim sneaks into Lionshield's Coster (through the chimney)
 -   He looks around, there is no proof that connects her to the Red Brands.
 -   We all level up!
--   The next day, we head to the adventurer (Daran), we find Janglee the Barbarian there.
+-   Erxhalim tells us to go to Daran's House
+
+# 20220916
+
+-   Daran's house:
+    -   We meet 'Yuga Yandex Yenki' the Barbarian.
+    -   We decide to head to the 'undead well'
+-   We overhear some people in the Smithy talking about how Erxhalim has been promoted to number 9.
+-   We climb a hill and see ruins in the valley.
+-   There are about 20 zombies
+-   We battle:
+    -   We are in a formation, with Nagina, Ebira and Yuga at the front, HerbAxe behind them and Erxhalim on top of the hill.
+    -   We kill some zombies
+    -   HerbAxe is shooting his shortbow, the big guys are using their meele weapons, Erxhalim is sniping them from the hill and Nagina is being Nagina and we defeat that group.
+    -   HerbAxe snipes two with an ice knife.
+    -   We battle some more zombies.
+    -   Nagina gets bloodied :(
+    -   We clear the zone
+    -   Ebira kills a single hiding zombie.
+    -   We find another group
+    -   Nagina squeezes a zombie to death
+-   We kill the zombies and approach the well
