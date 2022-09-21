@@ -228,4 +228,27 @@ by HerbAxe
     -   Ebira kills a single hiding zombie.
     -   We find another group
     -   Nagina squeezes a zombie to death
--   We kill the zombies and approach the well
+-   We kill the zombies and approach the well and look in
+
+# 20220921
+-   There is a staircase inside, spiralling downwards.
+-   We hear strange sounds from inside it
+-   We can see a pile of bones in there.
+-   We decide to go in.
+-   We kill 4 more zombies and find Kilarash and his robo dog, Vangaurd.
+-   We talk a bit and introduce ourselves.
+-   The well is connected to the Phandelver mines.
+-   We know that the magic may be connected to the zombies and the magic is in the well/mines.
+-   We light the cavern a bit, and we see its a wide room and there is also a tunnel.
+-   The tunnel curves and there is a large cavern on the other side.
+-   There are 15 zombies, stalactites, stalagmites, a pool of water and a green glowing rock.
+-   There is a fallen skeleton in heavy armour at the base of the rock.
+-   The cavern ceiling is being held up by some support beams.
+-   Kilarash thinks this was the entry point to the mines.
+-   Our plan: Kilarash will freeze the pool, then we all make ranged attacks on them.
+-   Battle:
+    -   We hit some zombies
+    -   7 of them break out of the ice
+    -   Erxhalim kills 2
+    -   Ebira crits and smites and does `59` total damage and kills the remaining 5
+    -   There are 7 remaining zombies in the cavern.
