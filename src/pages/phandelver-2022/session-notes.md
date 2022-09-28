@@ -231,6 +231,7 @@ by HerbAxe
 -   We kill the zombies and approach the well and look in
 
 # 20220921
+
 -   There is a staircase inside, spiralling downwards.
 -   We hear strange sounds from inside it
 -   We can see a pile of bones in there.
@@ -252,3 +253,47 @@ by HerbAxe
     -   Erxhalim kills 2
     -   Ebira crits and smites and does `59` total damage and kills the remaining 5
     -   There are 7 remaining zombies in the cavern.
+
+# 20220928
+
+-   Battle continues:
+    -   We see wings made of fire on Ebira's back which quickly disappear.
+    -   A portal opens and a dragon-looking guy (Klaus) drops in the middle.
+    -   He kills a zombie with his javelin.
+    -   Vanguard uses his flamethrower to damage 2 other zombies.
+    -   2 zombies break out.
+    -   Erxhalim crits and kills the ones damaged by Vanguard.
+    -   Yuga uses his Trident to kill a zombie and damage another
+    -   Ebira kills a zombie
+    -   HerbAxe ice knifes another
+-   We approach the dead body, Shatterspike tells us that he was also Shar's Paladin.
+-   Ebira and Klaus smite the obelisk and it breaks. A green orb inside breaks in a small explosion.
+-   A coughing figure (woodelf, blue robes, an otter, a scroll, an amulet and a crow skull amulet) pops out of the explosion.
+-   He is Erevan Meliamne.
+-   We ask him about:
+    -   The Black Spider: used to bid on evil magic item auctions.
+    -   Gundren: he is maybe dead (Erevan can't read his life force)
+    -   GlassStaff: he is a wizard gone rogue known as 'Iarno' (he was employed by The Black Spider)
+    -   Bearded Mamba: Erevan tells us to check out the tavern
+    -   Halia: Rose very quickly without any credentials, doesn't trust her
+    -   Linene: In tressendar manor, unharmed, still a hostage
+    -   HerbAxe: Erevan goes through his mind, and shows him a glimpse of the past. He is leading an army battalion in an ancient war, the size of Phandalen, he has wooden armour and wields a staff with a python's head (Naginaaa!).
+    -   HerbAxe's tribe: doing well
+-   Erevan gives us a portal to the inn.
+-   Klaus's family: His brother is ruling 'Drakonys' and is brutally killing people.
+-   Erevan leaves.
+-   At the inn:
+    -   Bearded Mamba is there, sitting with Trilena
+    -   Trilena thinks he's Erxalim's colleague at the "Logistics Company" he works at
+    -   We talk, he invites us to Tressendar manor to meet Glasstaff, we refuse and want to attack him.
+    -   He tells us that if he reaches the door, he'll signal Glasstaff to execute Linene with his flare gun; if he gets hit then he won't.
+-   Him running out:
+    -   Erxhalim misses (9)
+    -   HerbAxe misses (19)
+    -   Ebira misses (15)
+    -   Yuga misses
+    -   Kilarash misses
+    -   Vangaurd misses
+    -   Klaus misses
+-   He puts the flare gun aside but requests the party to come to Tressendar Manor to meet Glasstaff.
+-   We all level up.
