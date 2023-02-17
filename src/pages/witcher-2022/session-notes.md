@@ -288,7 +288,7 @@ by Eseld
     -   Okami talks to quill through Xeru
     -   Xeru is kinda crazy
 
-## 20220807 | Session 6
+## 20220807 | Session 6 | Pati-Patni aur Frigid Woe
 
 -   There is a door named 'main laboratory' it is heavy, heavier than steel
 -   There is a ring already in the door in a sort-of 'key-hole', there is also another ring-sized hole to the next
@@ -326,7 +326,7 @@ by Eseld
 -   She snaps a finger and all the vials break, chemicals cover her and passes away (the party is safe)
 -   We take the cure
 -   We bring the remaining vials of Frigid Woe with us.
--   We arrive at the villiage by 5
+-   We arrive at the village by 5
 -   Elro introduces us to two soldiers with black feathers on their helmets
 -   Captain Dradier of the Nilfgardian army greets us
 -   He doesn't intend to destroy the vials
@@ -345,4 +345,14 @@ by Eseld
 -   We discuss what Elro will tell the Nilfgardian's when they ask about the captain.
 -   We return to the tavern
 -   We get 50 gp each?
+
+## 20221015 | Session 8
+
+-   Okami sharts.
+-   Okami finds a strange guy, called Professor Nyct.
+-   He buys everyone some _expensive_ wine.
+-   Okami successfully gets a woman, and we hear 'noises'.
+-   Xeru fixes a mandolin to drown out the voices.
+-   We all pass out in the tavern.
+-
 

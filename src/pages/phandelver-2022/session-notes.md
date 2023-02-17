@@ -5,7 +5,7 @@ layout: ../../layouts/mainForMd.astro
 
 # Phandelver Campaign 2022 | Session Notes
 
-by HerbAxe
+by HerbAxe and the DM
 
 ## 20220731
 
@@ -271,6 +271,7 @@ by HerbAxe
 -   A coughing figure (woodelf, blue robes, an otter, a scroll, an amulet and a crow skull amulet) pops out of the explosion.
 -   He is Erevan Meliamne.
 -   We ask him about:
+
     -   The Black Spider: used to bid on evil magic item auctions.
     -   Gundren: he is maybe dead (Erevan can't read his life force)
     -   GlassStaff: he is a wizard gone rogue known as 'Iarno' (he was employed by The Black Spider)
@@ -279,8 +280,9 @@ by HerbAxe
     -   Linene: In tressendar manor, unharmed, still a hostage
     -   HerbAxe: Erevan goes through his mind, and shows him a glimpse of the past. He is leading an army battalion in an ancient war, the size of Phandalen, he has wooden armour and wields a staff with a python's head (Naginaaa!).
     -   HerbAxe's tribe: doing well
+    -   Klaus's family: His brother is ruling 'Drakonys' and is brutally killing people.
+
 -   Erevan gives us a portal to the inn.
--   Klaus's family: His brother is ruling 'Drakonys' and is brutally killing people.
 -   Erevan leaves.
 -   At the inn:
     -   Bearded Mamba is there, sitting with Trilena
@@ -297,3 +299,131 @@ by HerbAxe
     -   Klaus misses
 -   He puts the flare gun aside but requests the party to come to Tressendar Manor to meet Glasstaff.
 -   We all level up.
+
+# 20221016
+
+-   Mamba is wearing a ring, with a pearl and an empty pearl holder. Kilarash knows that it is a ring of spell storing. He can also tell that he used the shield spell to dodge the attacks. The other pearl has the 'fog cloud' spell.
+-   We discuss
+
+# Session 13
+
+-   Everyone wakes up to see a commotion outside the Townmaster's Hall, mob accusing Townmaster Harbin Wester of being the Redbrands' accomplice
+-   The party convinces the townfolk that they'll take care of it and head inside
+-   The party tricks Harbin into admitting that he was working for them. Daran and Sildar arrive and they all decide to lock him in.
+-   Daran and Sildar suggest holding elections.
+-   Meanwhile, the party takes on an old contract to deal with a warband of Orcs on the Triboar Trail.
+
+-   As they depart, they encounter Sister Garaele who is tasked with finding a spirit at the ruins of Old Owl Well.
+-   The party, having already been there, tell her that they saw nothing, just zombies.
+-   Garaele thanks them and gifts them 3 potions of healing.
+-   HerbAxe offends Garaele by calling Celestia "The Goddess of Bad Luck and Farts"
+
+-   Right before they leave town, Ebira goes to The Smithy, where they meet Thagren the human blacksmith
+-   Elris and Erxhalim try to fuck around, and quickly find out that they should not (excellent demo of the scientific method)
+-   Ebira pays 1500gp for Plate Mail Armor. He'll get it in 2 days.
+
+-   They move out, exploring and talking.
+-   Encounter the trail of hobgoblins and successfully ambush them.
+-   One of them sounds a horn.
+-   This better not be a cliffhanger, Dron I swear to god this better not be a motherfu--
+
+# Session 14:
+
+-   Destroy Hobgoblins and their Ogres. Fireball OP
+-   Kilarash's dog is a bit damaged but he heals himself
+-   They find "Wanted Alive" posters of themselves worth 25gp (the ultimate insult)
+-   Posters have the handwriting of The Black Spider
+
+-   Kilarash gets a call from Waterdeep Institute of Technology, says they got him an internship. He and Vanguard portal out of there.
+
+-   Move on, discover cave with one orc scout.
+
+# Session 15:
+
+-   The orcs are injured, arrow shafts with blue feathers sticking out of them
+-   Elris recognizes the arrows and tries to negotiate, but the orcs detect him
+-   Before either of them can act, Erxhalim shoots, thus starting combat
+
+-   It goes decently until the Gigachad war chief comes out and... wait what
+-   HE DECREASES EBIRA'S FUCKING ARMOR CLASS WHEN HE HITS?
+-   Oh, it gets worse
+-   He YELLS AND INSPIRES ALL HIS TROOPS, GIVING THEM ADVANTAGE?
+-   OH, AND HE GETS PHYSICAL DAMAGE RESISTANCE.
+
+-   THEY CRIT ON MOTHERFUCKING HERBAXE?!!!!
+-   HerbAxe is down, so is Nagina
+-   The chieftain KO's Ebira.
+
+-   Erxhalim heals HerbAxe a few times, he gets back up and does some damage with Wild Shape forms and Heat Metal.
+-   But the orcs in the cave have advantage and fucking waste HerbAxe's Wild Shapes.
+-   While the tanks are tanking, Ebira, Erxhalim, Elris and Farzumin deal out some very impressive damage!
+
+-   Then Farzumin takes a hit and is bloodied.
+
+-   It's looking like #TPK for a moment but then Erxhalim crits with his Psychic Blades and does the second-highest Player damage in the game,
+    ending the chieftain's onslaught.
+-   Combat ends.
+
+-   Party finds some treasure
+
+    -   Perfume
+    -   Some coin
+    -   Knowledge of Gruumsh (not really the loot they found but knowledge is the best treasure, right?)
+
+-   On the way back to Phandalin, they meet... a fox named Kit!
+-   Kit is interested in the party, particularly HerbAxe, for reasons he can't say.
+-   The party thinks he's adorable and eventually say goodbye.
+
+-   They go back, get Ebira's armor fixed from Thagren.
+-   Sildar has been elected the Townmaster, and Daran his Second-in-Command.
+
+-   Farzumin tells Erxhalim he's proud of how he handled himself, and that he's sorry he wasn't there for him in his youth.
+
+-   Everyone takes a nice, relaxing long rest!
+
+# Session 16
+
+-   I said the long rest was nice and relaxing.
+-   I said nothing about the next morning.
+-   MWAHAHAHAHAHAHA!
+
+-   The party wakes up to find Erxhalim, Elris, Farzumin and 75% of the town poisoned, including Linene and Sildar.
+-   HerbAxe sees that the water is a very slight tinge of green.
+-   Ebira gets his old armor back from Thagren.
+-   Sister Garaele is taking care of the patients. Tells them a little bit about Gruumsh.
+-   She tells them to find Remus, a druid who visits from time to time and helps out with nature.
+-   Meanwhile HerbAxe and Daran are looking aorund for a cure.
+
+-   Enter... Kit!
+-   And behind him, a wood elf wearing a painted fox skull mask and carrying a staff. He has a beard. Elves do not have facial hair. How old is he?!
+-   He introduces himself as Remus.
+-   Tells the party that the source of the poisoning is a young green dragon who has laired in Thundertree.
+-   Thundertree is at the base of a dormant volcano. The river runs through a region of volcanic activity, creating purifying springs that are rich in mineral content.
+-   This is the river supply of Phandalin, and the dragon is corrupting it.
+-   Remus advises the party to not trust it, as green dragons are the most manipulative types of dragons, and warns them to NOT kill it, since it is a part of
+    the ecosystem so that would only bring more trouble to Phandalin.
+
+-   The party sets out for Thundertree.
+-   HerbAxe sends out his familiar, which recons Thundertree for a bit and gets annihilated by the dragon.
+-   Dragon calls out to them, tells them that he wants a ceasefire and that they can discuss it in his lair.
+
+-   They approach. The dragon introduces himself as Venomfang and begins conversing with the party, all the while moving effortlessly about his lair and
+    throwing furtive glances outside.
+-   Venomfang says that his sister is out for his hoard, and that he'll leave his lair if the party takes care of her.
+-   Says he'll give them a map to her location.
+
+-   ... he lied!
+
+-   Venomfang unleashes his poison breath weapon.
+-   Ebira succeeds his CON save but is bloodied.
+-   HerbAxe and Erxhalim fail.
+-   HerbAxe is KO'd.
+
+-   Erxhalim Ahlai's body becomes puckered and blistered as he takes his final breath.
+
+-   Witnessing this, Farzumin enters a rage and chases after Venomfang who flew to the top of the tower. Despite being poisoned and having disadvantage,
+    he CRITS! doing 48 damage. Black energy erupts from his mind blade and leaves a permanent burn mark on the area around Venomfang's right eye.
+
+-   Ebira revives HerbAxe and armors up.
+
+-   And you thought the last cliffhanger was bad.
