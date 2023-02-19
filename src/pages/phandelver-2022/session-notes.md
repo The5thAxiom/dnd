@@ -427,3 +427,33 @@ by HerbAxe and the DM
 -   Ebira revives HerbAxe and armors up.
 
 -   And you thought the last cliffhanger was bad.
+
+# Session 17
+
+-   The dragon unleashes its breath weapon again, KO’ing HerbAxe AGAIN before diving into the springs. Elris is running away, and Farzumin hits Venomfang.
+-   Pyraxis Emberhorn, a Dragonborn sorcerer, appears from the cottage and runs to the spring. He throws an acid splash which luckily causes a methane explosion which HerbAxe follows up with a moonbeam, severely damaging Venomfang and making him retreat.
+-   Farzumin and HorseHerbAxe leave for Phandalin with Erxhalim’s corpse to revive him.
+-   Pyraxis and Ebira find:
+    -   470gp
+    -   Scrolls of Misty Step and Lightning Bolt
+    -   A battleaxe with Dwarvish runes
+-   Leave for Phandalin
+-   HerbAxe and Farzumin arrive and all of Phandalin is mourning Erxhalim’s death. They ask Garaele to bring him back, Remus tries to argue but HerbAxe actually convinces him!
+-   He goes to Halia’s to get a diamond and also finds the wanted posters that the hobgoblins had, in her drawer. He KO’s her and asks Daran to keep an eye on her.
+-   The rest of the party also arrives and they all try to bring Erxhalim back to life as Garaele casts Revivify.
+-   Farzumin, Pyraxis and HerbAxe all make contributions to the ritual to help anchor Erxhalim’s soul.
+-   The spell succeeds.
+-   Erxhalim meets Chronus, the God of Time and Death.
+-   Chronus decides that Erxhalim’s death wasn’t unjust… but his life was. And that if Erxhalim is willing to return, change, and accept Chronus’ bargain, that his life has more value than his death.
+-   Chronus tells Erxhalim to accompany Ebira on his quest and makes Erxhalim one of his Reapers.
+    -   Erxhalim must end those who have cheated death, including all Undead and some other targets, including the Elite Assassins.
+    -   Erxhalim gains The Reaper’s Curse:
+        -   Erxhalim must always attack an Undead creature when possible. He may make a DC 15 INT save to willingly resist the effect, but the DC will keep increasing by 1 on each of his turns. Vice versa for the Undead creatures.
+        -   Erxhalim’s attacks have advantage against Undead creatures and vice versa.
+        -   Erxhalim can sense the presence of Undead within 30 feet of him and vice versa.
+        -   He may choose to mask the fact that he is a Reaper from other Reapers but then also cannot discern whether someone is a Reaper.
+-   Erxhalim is back!! But he needs rest. He gets a Ring of the Weak Barbarian from Remus, who tells him to use it well.
+-   The rest of the party deals with Halia. Asks her some questions about the Zhentarim and throws her in jail.
+-   They get the axe checked out. It’s “Hew”, a +1 Battleaxe, with the curse that its wielder feels anxious whenever they’re in the forest.
+-   HerbAxe speaks with Remus. Remus upgrades HerbAxe’s staff to its intended power. However, when HerbAxe falls unconscious, the staff will shatter. HerbAxe asks Remus about his past, but Remus refuses to reveal it “for [HerbAxe’s] sake”. He also cautions HerbAxe against Erevan before transforming into a wolf and departing with his pack and Kit.
+-   Party takes a long rest.
