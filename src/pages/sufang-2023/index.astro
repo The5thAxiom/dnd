@@ -1,0 +1,99 @@
+---
+import Main from '../../layouts/main.astro';
+
+
+const isVowelSound = (word: string): boolean => {
+    const vowels = ['a', 'e', 'i', 'o', 'u'];
+    return vowels.includes(word.charAt(0).toLowerCase());
+}
+
+type pc = {
+    name: string;
+    link?: string;
+    newPage: boolean;
+    race: string;
+    class: string;
+};
+
+const pcs: pc[] = [
+    {
+        name: 'Aldris Duskwalker',
+        newPage: false,
+        race: 'Half-Elf',
+        class: 'Lunar Sorcerer'
+    }, {
+        name: 'Arnaut Keppler',
+        newPage: false,
+        race: 'Half-Elf',
+        class: 'Swashbuckler Rogue'
+    }, {
+        name: 'Elstaer Kevmorn',
+        newPage: false,
+        race: 'Half-Elf',
+        class: 'Necromancy Wizard'
+    }, {
+        name: 'Thors',
+        newPage: false,
+        race: 'Goliath',
+        class: 'Oath of Redemption Paladin'
+    }
+];
+
+type npc = {
+    name: string;
+    race: string;
+    affiliation?: string;
+    description?: string;
+}
+
+const npcs: npc[] = [
+    {
+        name: 'Bart',
+        race: 'Elf',
+        description: 'A charismatic Mashi Elf who owns the "Bull\'s Beak Tavern" in Yanamri.'
+    },
+    {
+        name: 'Xaber',
+        race: 'Dwarf',
+        description: 'An eccentric dwarven armourer from Yanamri who loves his wife.'
+    }
+]
+---
+
+<Main title="Sam's DnD | Sufang 2023 Campaign">
+    <h1>Phandelver 2022 Campaign</h1>
+
+    <h3><a href='/sufang-2023/session-notes'>Session notes</a></h3>
+
+    <h2>PCs</h2>
+    <ol>
+        {pcs.map(
+            c => <li>
+                {c.link
+                    ? <a
+                        href={c.link}
+                        target={c.newPage ? '_blank' : '_self'}
+                        rel={c.newPage ? 'noreferrer' : ''}
+                    >
+                        {c.name}
+                    </a>
+                    : c.name
+                }, {isVowelSound(c.race || c.class) ? 'an' : 'a'} <span>{c.race} {c.class}</span>
+            </li>
+        )}
+    </ol>
+    
+    {npcs.length > 0 &&
+        <h2>NPCs</h2>
+        <ol>
+            {npcs.map(
+                c => <li>
+                    {c.name}, a {c.race} {!!c.affiliation && `(${c.affiliation})`} {!!c.description && <>
+                    :<br/>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{c.description}
+                    </>}
+                </li>
+            )}
+        </ol>
+    }
+</Main>
