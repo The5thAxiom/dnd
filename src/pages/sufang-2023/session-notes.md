@@ -11,13 +11,13 @@ by Dron and the DM
 
 Aldris Duskwalker (Mashi/half-elf Lunar Sorcerer), Elstaer Kevmorn (Half-Teytal-half-Mashi/half-elf Necromancy Wizard) and Thors the Troll (Goliath Oath of Paladin Redemption) meet on the way to Yanamri and things don't start off that well. Elstaer insults paladins, Thors attacks him as Aldris tries to distance himself from the commotion.
 
-<!-- ![[quickling.webp]] -->
+![Quickling](/assets/quickling.webp)
 
 However, two Quicklings pop out of the forest and take some of their gold. Thors knocks Elstaer out and takes his money. One runs towards Yanamri and one knocks out Thors.
 
 A mythical spirit, identified by Aldris as a _Ke-Riin_ emerges from the forest, and destroys the quickling, heals Elstaer and Thors, and magically instructs them, "**don't fight!**".
 
-<!-- ![[ke-riin.png]] -->
+![Ke-Riin](/assets/ke-riin.png)
 
 Arnaut Kepler (Efari/half-elf Swashbuckler Rogue), near the Eastern Gate in Yanamri, spots the quickling rush past the guards and enter the city, he hides by some trees and spreads bearings on the ground to trip the quickling.
 The quickling, disrupted by the bearings, stops for a moment as a guard throws a spear at him. Arnaut then slays it.
@@ -40,13 +40,13 @@ The miner says his friend _Etawr_ got pushed by some blurry thing, and exploded 
 
 Bart, the owner of the tavern calls Arnaut to the side and asks for help. He tells him to bring some protection with him. He then asks Aldris and Thors to come along.
 
-<!-- ![[bart.jpg]] -->
+![Bart](/assets/bart.jpg)
 
 Bart leads them to a small shack which has blood and symbols all over the place, and a red right hand that's pinned to the wall by a rapier. Bart tells them to investigate. Aldris realizes one of the symbols is _Blood Magic_ but cannot recognize the rest. Arnaut finds a note in Efari that says "The sword is yours to take, Reckoner". He also finds that the blade is magical upon his touch, and the hand belongs to a Tiefling. Thors uses Divine Sense and realizes the Blood Magic is evil, and the mirror is also the most evil thing in the room. He sees a reflection of himself with red eyes, and breaks the mirror. They leave, leaving Dari the Dwarf to clean up the mess and notify Bart that Arnaut took the hand in case he pops by while Dari is there.
 
 The party visits _Mitsa's Magic Shop_, where they meet a gnome wizard name Snifarflerobin.
 
-<!-- ![[snifarflerobin.jpg|snifarflerobin]] -->
+![Snifarflerobin](/assets/snifarflerobin.jpg)
 
 He tells them that the sword is magical (not blood magic) and has a lock inside it, that the sigil they found was a Conjuration/Abjuration/Transmutation sigil, probably used to transport something/someone.
 
@@ -62,8 +62,11 @@ With that, the party departs. Arnaut buys a lemon for 1 CP as they head for the 
 
 ## Session 2 (20230613): Tum Mujhe Haath Do, Mai Tumhe Armour Dunga
 
--   Talk with Xaber (Dwarven Armorer)
--   Xaber is the best NPC, he is my guy he is my fam he is my lord
+-   Talk with Gzaber (Dwarven Armorer)
+
+![Gzaber](/assets/gzaber.jpg)
+
+-   Gzaber is the best NPC, he is my guy he is my fam he is my lord
 -   Get Studded Leather Armor (45 gp, tomorrow evening) and Splint Armor (170 gp + 5 hands in armor, day after tomorrow evening), will tell us if the Quicklings try to sell him shit.
 -   Head back to Bull's Beak, the popos are here and the doors are locked
 -   Arnaut speaks w/ them, recognizes Imino and Akkso, they ask him to spy on the miners who are inside discussing a strike
